@@ -23,7 +23,7 @@ function createFareMultiplier(multiplier) {
     return driverSelectionFunction(drivers);
   }
   
-  // Example usage:
+  
 
   
 
